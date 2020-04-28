@@ -1,0 +1,13 @@
+# vim
+*~
+.*.swp
+
+# vscode
+.vscode/
+
+# artifacts
+*build/
+
+# cache
+__pycache__/
+/Default/
