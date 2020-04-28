@@ -3,6 +3,6 @@
 namespace cuda_cmake_demo
 {
 
-void daxpy(size_t n, double a, double const* x, double const* y);
+void daxpy(size_t n, double a, double const* x, double* y);
 
 }
